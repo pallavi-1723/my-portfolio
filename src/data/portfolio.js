@@ -95,9 +95,9 @@ export const projects = [
       'An AI-powered web app that analyses a resume and gives feedback on it. Built with Python and Streamlit.',
     tags: ['Python', 'Streamlit'],
     image: null,
-    github: '', // TODO: paste your repository URL here
+    github: 'https://github.com/pallavi-1723/AI-Resume-Analyzer', 
     // Set this in a .env file (VITE_RESUME_ANALYSER_URL) or paste the deployed URL directly. See README.
-    liveUrl: import.meta.env.VITE_RESUME_ANALYSER_URL || '',
+    liveUrl: import.meta.env.VITE_RESUME_ANALYSER_URL || 'https://ai-resume-analyzer-pkegb8er7xpkj78htjcthw.streamlit.app/',
     status: 'Completed',
     featured: true,
   },
@@ -129,8 +129,8 @@ export const projects = [
     name: 'Portfolio Website (first version)',
     description: 'A responsive personal portfolio built with plain HTML, CSS and JavaScript.',
     tags: ['HTML', 'CSS', 'JavaScript'],
-    github: 'https://github.com/pallavi-1723/AI-Resume-Analyzer',
-    liveUrl: 'VITE_RESUME_ANALYSER_URL',
+    github: '',
+    liveUrl: '',
     status: 'Completed',
     featured: false,
   },
