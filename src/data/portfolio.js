@@ -29,7 +29,7 @@ export const profile = {
 
 // ------------------------------------------------------------------ Social ----
 export const social = {
-  github: 'https://github.com/pallavi-1723',
+  github: 'https://github.com/pallavi-1723/AI-Resume-Analyzer',
   linkedin: 'https://www.linkedin.com/in/pallavi-kumari01/',
   // Add more later, e.g. leetcode: 'https://leetcode.com/u/yourname', then show it in Footer/Contact.
 }
