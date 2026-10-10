@@ -29,7 +29,7 @@ export const profile = {
 
 // ------------------------------------------------------------------ Social ----
 export const social = {
-  github: 'https://github.com/pallavi-1723/AI-Resume-Analyzer',
+  github: 'https://github.com/pallavi-1723/',
   linkedin: 'https://www.linkedin.com/in/pallavi-kumari01/',
   // Add more later, e.g. leetcode: 'https://leetcode.com/u/yourname', then show it in Footer/Contact.
 }
@@ -129,8 +129,8 @@ export const projects = [
     name: 'Portfolio Website (first version)',
     description: 'A responsive personal portfolio built with plain HTML, CSS and JavaScript.',
     tags: ['HTML', 'CSS', 'JavaScript'],
-    github: '',
-    liveUrl: '',
+    github: 'https://github.com/pallavi-1723/AI-Resume-Analyzer',
+    liveUrl: 'VITE_RESUME_ANALYSER_URL',
     status: 'Completed',
     featured: false,
   },
